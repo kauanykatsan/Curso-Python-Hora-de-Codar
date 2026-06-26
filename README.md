@@ -2,20 +2,18 @@
   <img src="hora-de-codar.png" width="300">
 </p>
 
-# Curso Python - Hora de Codar 🚀
+Python Course - Hora de Codar 🚀
 
-Repositório destinado aos exercícios, desafios e projetos desenvolvidos durante o curso "Python do Básico ao Avançado" da Hora de Codar.
+Repository containing exercises, challenges, and projects developed throughout the "Python from Beginner to Advanced" course by Hora de Codar.
 
-## Conteúdo
+📚 Topics Covered
+Python Fundamentals
+Conditional Statements
+Loops and Iteration
+Functions
+Lists
+Modularization
+Practical Projects
+🎯 Goal
 
-- Fundamentos da linguagem
-- Estruturas condicionais
-- Estruturas de repetição
-- Funções
-- Listas
-- Modularização
-- Projetos práticos
-
-## Objetivo
-
-Registrar minha evolução e os conhecimentos adquiridos ao longo do curso.
+To document my learning journey and track the knowledge and skills acquired throughout the course.
