@@ -14,6 +14,7 @@ Functions
 Lists
 Modularization
 Practical Projects
+
 🎯 Goal
 
 To document my learning journey and track the knowledge and skills acquired throughout the course.
