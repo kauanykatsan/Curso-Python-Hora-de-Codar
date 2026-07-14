@@ -6,7 +6,7 @@
 import random  #do próprio Pythin - vai gerar um número aleatório
 
 def jogo_adivinhacao():
-    print("Bem_Vind ao Jogo da Adivinhção")
+    print("Bem_Vindo ao Jogo da Adivinhção")
     print("Tente adivinhar um número aleatório de 1 a 100!")
     
     #Gerar um numero aleatorio
