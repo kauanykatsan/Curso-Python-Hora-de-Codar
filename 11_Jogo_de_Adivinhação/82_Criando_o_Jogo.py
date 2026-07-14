@@ -3,7 +3,7 @@
 # Contabilizando as tentativas
 
 
-import random  #do próprio Pythin - vai gerar um número aleatório
+import random  #do próprio Python - vai gerar um número aleatório
 
 def jogo_adivinhacao():
     print("Bem_Vindo ao Jogo da Adivinhção")
