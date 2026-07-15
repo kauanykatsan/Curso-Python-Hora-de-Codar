@@ -1,0 +1,31 @@
+#if-elif-else multiplas condições de sequencia
+#else é opcional 
+'''
+#ELIF
+idade = int(input("Digite sua idade: "))
+if idade < 13:
+    print("Você é uma criança!")
+elif idade < 18:
+    print("Você é adolescente")
+else:
+    print("Você é adulto")
+
+
+'''
+nota = int(input("Digite sua nota: "))
+if nota >=9:
+    print("Você foi muito bem!")
+elif nota >=8:
+    print("Você foi bem!")
+elif nota >=7:
+    print("Você está na média!")
+elif nota >6:
+    print("Você ficou de recuperação!")
+else:
+    print("Você foi muito mal!")
+
+
+#Podemos ter só if
+#Não podemos ter só else
+#Podemos ter if e elif, sem necessidade do else
+#Podemos ter quantos elif's precisarmos
