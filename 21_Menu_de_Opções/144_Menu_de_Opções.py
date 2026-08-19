@@ -56,7 +56,7 @@ def main():
         opcao= exibir_menu()
 
         if opcao == "1":
-            print("Adionar produto: " )
+            print("Adicionar produto: " )
             adicionar_produto(inventario)
 
 
@@ -74,7 +74,7 @@ def main():
             remover_produto(inventario)
             
         elif opcao == "5":
-            print("Saindo do Sinstema de Inventário...")
+            print("Saindo do Sistema de Inventário...")
             break
 
         else:
